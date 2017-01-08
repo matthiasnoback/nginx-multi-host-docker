@@ -1,0 +1,1 @@
+- Try to make the Makefile a bit smarter (e.g. wrap docker-machine env stuff in a function)
